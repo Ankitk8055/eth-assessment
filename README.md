@@ -1,4 +1,4 @@
-# MetaAssignmentSolidity
+# MetaAssignmentSolidity METACRAFTERS
 /*MyToken is a simple ERC20-like token implemented in Solidity. This smart contract allows users to mint and burn tokens, keeping track of the total supply and individual balances. The contract provides basic functionalities needed for a token on the Ethereum blockchain, including minting new tokens and burning existing ones.*/
 
 /*Contract Details
