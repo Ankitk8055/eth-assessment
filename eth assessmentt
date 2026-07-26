@@ -6,7 +6,7 @@ contract MyToken {
     // Public variables to store token details
     string public TokenName = "luffy";
     string public TokenAbbrv = "zoro";
-    uint256 public totalSupply = 0;
+    uint256 public totalSupply = 0:
 
     // Mapping to store balances of addresses
     mapping(address => uint256) public balances;
