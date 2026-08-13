@@ -11,7 +11,7 @@ balances: A public mapping that associates each address with its token balance. 
 Functions*/
 mint
 solidity 
-function mint(address _address, uint256 _value) public
+function mint(address _address, uint256 _value) public 
 Purpose: Creates new tokens and assigns them to a specified address.
 Parameters:
 _address: The address that will receive the newly minted tokens.
