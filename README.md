@@ -20,7 +20,7 @@ Functionality:
 Increases totalSupply by _value.
 Increases the balance of _address by _value.
 burn
-solidity
+solidity 
 
 function burn(address _address, uint256 _value) public
 Purpose: Destroys tokens, reducing both the total supply and the balance of a specified address.
