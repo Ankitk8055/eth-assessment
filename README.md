@@ -19,7 +19,7 @@ _value: The amount of tokens to be minted.
 Functionality:
 Increases totalSupply by _value.
 Increases the balance of _address by _value.
-burn
+burn 
 solidity 
 
 function burn(address _address, uint256 _value) public
