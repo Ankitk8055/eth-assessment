@@ -22,7 +22,7 @@ Increases the balance of _address by _value.
 burn 
 solidity 
 
-function burn(address _address, uint256 _value) public
+function burn(address _address, uint256 _value) public 
 Purpose: Destroys tokens, reducing both the total supply and the balance of a specified address.
 Parameters:
 _address: The address from which the tokens will be burned.
