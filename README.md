@@ -9,7 +9,7 @@ totalSupply: Tracks the total supply of the token in circulation. Initially set 
 Mapping
 balances: A public mapping that associates each address with its token balance. This allows the contract to keep track of how many tokens each address holds.
 Functions*/
-mint
+mint 
 solidity 
 function mint(address _address, uint256 _value) public 
 Purpose: Creates new tokens and assigns them to a specified address.
