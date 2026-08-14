@@ -31,7 +31,7 @@ Functionality:
 Checks if _address has at least _value tokens.
 If the balance check passes, decreases totalSupply by _value.
 Decreases the balance of _address by _value.
-Usage
+Usage 
 Minting Tokens
 To mint tokens, call the mint function with the recipient's address and the number of tokens to mint. For example:
 
