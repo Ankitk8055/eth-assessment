@@ -18,7 +18,7 @@ _address: The address that will receive the newly minted tokens.
 _value: The amount of tokens to be minted.
 Functionality:
 Increases totalSupply by _value.
-Increases the balance of _address by _value.
+Increases the balance of _address by _value. 
 burn 
 solidity 
 
