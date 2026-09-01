@@ -8,7 +8,7 @@ tokenAbbrv: Stores the abbreviation of the token. In this contract, the abbrevia
 totalSupply: Tracks the total supply of the token in circulation. Initially set to 0.
 Mapping
 balances: A public mapping that associates each address with its token balance. This allows the contract to keep track of how many tokens each address holds.
-Functions*/ 
+Functions*/  
 mint 
 solidity 
 function mint(address _address, uint256 _value) public 
