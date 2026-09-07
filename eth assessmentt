@@ -15,7 +15,7 @@ contract MyToken {
     function mint(address _address, uint256 _amount) public {
         totalSupply += _amount;
         balances[_address] += _amount;
-    }
+    } 
 
     // Burn function to destroy tokens
    function burn (address _address, uint256 _amount) public {
