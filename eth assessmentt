@@ -10,7 +10,7 @@ contract MyToken {
 
     // Mapping to store balances of addresses
     mapping(address => uint256) public balances;
-
+ 
     // Mint function to create new tokens
     function mint(address _address, uint256 _amount) public {
         totalSupply += _amount;
