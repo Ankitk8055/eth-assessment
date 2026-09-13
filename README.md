@@ -6,7 +6,7 @@ Public Variables
 tokenName: Stores the name of the token. In this contract, the token name is "Meta".
 tokenAbbrv: Stores the abbreviation of the token. In this contract, the abbreviation is "Mta".
 totalSupply: Tracks the total supply of the token in circulation. Initially set to 0.
-Mapping
+Mapping 
 balances: A public mapping that associates each address with its token balance. This allows the contract to keep track of how many tokens each address holds. 
 Functions*/      
 mint          
